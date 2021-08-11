@@ -18,9 +18,9 @@ Status
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/eli%C3%BA-kneib-890003170/" target= "_blank">
-  <img alt="Meu Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://twitter.com/Venni__" target= "_blank">
+  <img alt="Meu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/L1Knb%22%3E
+<a href="https://github.com/OGabrielPereira">
   <img alt="Meu Github (uau, um link recursivo!)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
