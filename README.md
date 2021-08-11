@@ -21,6 +21,9 @@ Status
 <a href="https://twitter.com/Venni__" target= "_blank">
   <img alt="Meu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.instagram.com/ogabrielpereiraa_/" target= "_blank">
+  <img alt="Meu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <a href="https://github.com/OGabrielPereira">
   <img alt="Meu Github (uau, um link recursivo!)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
