@@ -2,11 +2,13 @@
 <h2 align="center"> Hello World! Welcome to my Github! </h2>
 
 <div>
- <a href="https://github.com/OGabrielPereira%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OGabrielPereira&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus Stats   do Github" style="max-width:100%;" height="180em"/>
-  <a href="https://github.com/OGabrielPereira%22%3E">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGabrielPereira&theme=midnight-purple&layout=compact" style="max-           width:100%;" height="180em"/>
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OGabrielPereira&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus Stats   do Github" style="max-width:100%;" height="180em">
+  
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGabrielPereira&theme=midnight-purple&layout=compact" style="max-           width:100%;" height="180em">
+ 
    <img alt="OGabrielPereira" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
+ 
  </a>
 </div>
 
