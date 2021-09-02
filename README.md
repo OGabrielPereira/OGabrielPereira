@@ -11,9 +11,7 @@
  
  </a>
 </div>
-
 <br>
-
 <div>
  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30"    align="middle">
  <img alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;" width="40" height="30"    align="middle">
