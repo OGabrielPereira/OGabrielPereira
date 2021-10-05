@@ -2,7 +2,7 @@
 
 <div>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OGabrielPereira&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus Stats   do Github" style="max-width:100%;" height="180em">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OGabrielPereira&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus       Stats do Github" style="max-width:100%;" height="180em">
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGabrielPereira&theme=midnight-purple&layout=compact" style="max-           width:100%;" height="180em">
  
@@ -12,7 +12,6 @@
 </div>
 
 <br>
-
 
 <div>
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30"   align="middle">
