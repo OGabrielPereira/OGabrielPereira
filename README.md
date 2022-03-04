@@ -14,13 +14,10 @@
 <br>
 
 <div>
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;" width="40" height="30"   align="middle">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" width="100" height="30"   align="middle">
  
-  <img alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;" width="40" height="30"       align="middle">
- 
-  <img alt="Css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;" width="40" height="30"           align="middle">
- 
-  <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;" width="40"   height="30"    align="middle"> 
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" style="max-width:100%;" width="90" height="30"       align="middle">
+
 </div>
 
 <hr>
