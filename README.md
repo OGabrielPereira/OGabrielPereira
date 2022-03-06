@@ -24,10 +24,6 @@
 
 <div>
  
- <a href="https://twitter.com/Venni__" target= "_blank">
-   <img alt="Meu Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"/>
- </a>
- 
  <a href="https://github.com/OGabrielPereira">
    <img alt="Meu Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;"/>
  </a>
