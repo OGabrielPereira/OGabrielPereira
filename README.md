@@ -6,7 +6,7 @@
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGabrielPereira&theme=midnight-purple&layout=compact" style="max-           width:100%;" height="180em">
  
-   <img alt="OGabrielPereira" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
+   <img alt="OGabrielPereira" src="https://github-readme-streak-stats.herokuapp.com?user=OGabrielPereira&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
  
  </a>
 </div>
