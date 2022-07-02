@@ -2,12 +2,14 @@
 
 <div>
  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OGabrielPereira&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus       Stats do Github" style="max-width:100%;" height="180em">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OGabrielPereira&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
   
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGabrielPereira&theme=midnight-purple&layout=compact&hide=vue" style="max-           width:100%;" height="180em">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGabrielPereira&theme=midnight-purple&layout=compact&hide=vue" style="max-width:100%;" height="180em">
  
    <img alt="OGabrielPereira" src="https://github-readme-streak-stats.herokuapp.com?user=OGabrielPereira&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
- 
+   
+   <img alt="OGabrielPereira" src="https://github-readme-stats.vercel.app/api/pin/?username=ogabrielpereira&repo=BitsNBytes&theme=midnight-purple" style="max-width:100%;" width="380" align="middle">
+
  </a>
 </div>
 
