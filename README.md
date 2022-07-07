@@ -27,8 +27,6 @@
  <a href="https://github.com/OGabrielPereira">
    <img alt="Meu Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;"/>
  </a>
- 
 <!--  ![Snake animation](https://github.com/OGabrielPereira/OGabrielPereira/blob/output/github-contribution-grid-snake.svg) -->
- 
 </div>
 
